@@ -1,0 +1,60 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/ProgramData/IntelFPGA
+vAAC2M3H1_tb
+Z0 !s110 1791521175
+!i10b 1
+!s100 [hJnlKTW[QOXD@fM1=7g[2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IhoUjzDW1O3<_AG_iS1g]h3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!i119 1
+Z3 dC:/FPGA/Verilog_M3/AAC2M3H1
+w1791380162
+8C:/FPGA/Verilog_M3/AAC2M3H1/AAC2M3H1_tb.vp
+FC:/FPGA/Verilog_M3/AAC2M3H1/AAC2M3H1_tb.vp
+!i122 1
+L0 64 56
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1791521175.000000
+!s107 C:/FPGA/Verilog_M3/AAC2M3H1/AAC2M3H1_tb.vp|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/FPGA/Verilog_M3/AAC2M3H1/AAC2M3H1_tb.vp|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@a@a@c2@m3@h1_tb
+vFullAdd4
+R0
+!i10b 1
+!s100 @C_CzHH256EHg`<z2:CWP0
+R1
+IbOlAC^]JOYFki2Yk<SE3S0
+R2
+R3
+w1791521169
+8C:/FPGA/Verilog_M3/AAC2M3H1/AAC2M3H1.v
+FC:/FPGA/Verilog_M3/AAC2M3H1/AAC2M3H1.v
+!i122 0
+L0 38 10
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/FPGA/Verilog_M3/AAC2M3H1/AAC2M3H1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/FPGA/Verilog_M3/AAC2M3H1/AAC2M3H1.v|
+!i113 1
+R6
+R7
+n@full@add4
