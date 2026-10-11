@@ -1,0 +1,60 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/FPGA/Verilog_M4/AAC2M4P3
+vAAC2M4H1_tb
+!s110 1791574655
+!i10b 1
+!s100 8Il:FP@ZhJ<GWWPce_`VD3
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I`d49kUijZA57AdWkSRd2_3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+!i119 1
+Z2 dC:/FPGA/Verilog_M4/AAC2M4H1
+w1791565388
+8C:/FPGA/Verilog_M4/AAC2M4H1/AAC2M4H1_tb.vp
+FC:/FPGA/Verilog_M4/AAC2M4H1/AAC2M4H1_tb.vp
+!i122 1
+L0 65 52
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z4 !s108 1791574654.000000
+!s107 C:/FPGA/Verilog_M4/AAC2M4H1/AAC2M4H1_tb.vp|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/FPGA/Verilog_M4/AAC2M4H1/AAC2M4H1_tb.vp|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@a@a@c2@m4@h1_tb
+vALU
+!s110 1791574654
+!i10b 1
+!s100 VAggklm31CVYi><1lLUm`1
+R0
+ISE<^VHLQZSBhT`9282@jz2
+R1
+R2
+w1791574644
+8C:/FPGA/Verilog_M4/AAC2M4H1/AAC2M4H1.v
+FC:/FPGA/Verilog_M4/AAC2M4H1/AAC2M4H1.v
+!i122 0
+L0 1 21
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/FPGA/Verilog_M4/AAC2M4H1/AAC2M4H1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/FPGA/Verilog_M4/AAC2M4H1/AAC2M4H1.v|
+!i113 1
+R5
+R6
+n@a@l@u
